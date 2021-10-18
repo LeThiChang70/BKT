@@ -175,3 +175,8 @@ C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\LTC070s\
 C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\LTC070s\Details.cshtml.g.cs
 C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\LTC070s\Edit.cshtml.g.cs
 C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\LTC070s\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\Teachers\Create.cshtml.g.cs
+C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\Teachers\Delete.cshtml.g.cs
+C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\Teachers\Details.cshtml.g.cs
+C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\Teachers\Edit.cshtml.g.cs
+C:\Users\Admin\Downloads\chang1070\LTC1070\obj\Debug\net5.0\Razor\Views\Teachers\Index.cshtml.g.cs

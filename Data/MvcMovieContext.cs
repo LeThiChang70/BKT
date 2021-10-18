@@ -15,4 +15,6 @@ using LTC1070.Models;
         public DbSet<LTC1070.Models.Movie> Movie { get; set; }
 
         public DbSet<LTC1070.Models.LTC070> LTC070 { get; set; }
+
+        public DbSet<LTC1070.Models.Teacher> Teacher { get; set; }
     }

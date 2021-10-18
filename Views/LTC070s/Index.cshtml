@@ -13,7 +13,10 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.LTCName)
+                <label>Mã số</label>
+            </th>
+            <th>
+                <label>Họ và tên</label>
             </th>
             <th></th>
         </tr>
@@ -21,6 +24,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LTCId)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.LTCName)
             </td>
